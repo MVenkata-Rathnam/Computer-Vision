@@ -1,0 +1,5 @@
+1) Input the image
+2) Input the rupee
+3) Resize the image
+4) Extract the note from the image
+5) Determine the first condition
